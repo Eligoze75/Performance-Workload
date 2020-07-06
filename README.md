@@ -64,7 +64,11 @@ There are several things that could be interesting for us from this data, but I'
     * How much time do we spend in each part of the flow process?
     * What are the causes of our problems and in what measure?
 
+Because Github performs a static render of the notebooks and it doesn't include the embedded HTML that makes up a plotly graph, you can take a look to the notebook here: 
+![Notebook with html features](https://github.com/Eligoze75/Performance-Workload/blob/master/src/Performace%26workload.ipynb)  
 
+Notebook with code can be found at:
+![Code](src/Performace&workload.ipynb)
 ```python
 
 ```
